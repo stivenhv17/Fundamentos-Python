@@ -1,0 +1,2 @@
+print("Programming", "Essentials" , "in" , sep="***" , end="...") # Hice el print #1 donde separe las palabras cada una con ("") como la orden fue que debia ser separada por los *** entonces utilice el "sep" y utilice el end para hacer el salto de linea con la ultima palabra "Python" (print #2)
+print("Python") 
